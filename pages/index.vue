@@ -8,7 +8,7 @@
     </v-btn>
   </v-app-bar>
 
-  <v-main>
+  <v-main class="bg-grey-lighten-2">
     <v-container>
       <v-row>
         <v-col v-for="n in 8" :key="n" cols="3">
